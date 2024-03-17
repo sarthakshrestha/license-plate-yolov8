@@ -1,0 +1,39 @@
+names:
+- '0'
+- '1'
+- '2'
+- '3'
+- '4'
+- '5'
+- '6'
+- '7'
+- '8'
+- '9'
+- ba
+- bagmati
+- cha
+- ga
+- gha
+- ja
+- jha
+- ka
+- kha
+- ko
+- license-plate
+- lu
+- madesh
+- me
+- na
+- pa
+- pradesh
+- ra
+nc: 28
+roboflow:
+  license: CC BY 4.0
+  project: final-fyp-dataset
+  url: https://universe.roboflow.com/college-fyp-ewmvi/final-fyp-dataset/dataset/1
+  version: 1
+  workspace: college-fyp-ewmvi
+test: ../test/images
+train: final-fyp-dataset-1/train/images
+val: final-fyp-dataset-1/valid/images
