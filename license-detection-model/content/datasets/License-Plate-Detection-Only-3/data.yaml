@@ -1,0 +1,12 @@
+names:
+- license-plate
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: license-plate-detection-only
+  url: https://universe.roboflow.com/college-fyp-ewmvi/license-plate-detection-only/dataset/3
+  version: 3
+  workspace: college-fyp-ewmvi
+test: ../../License-Plate-Detection-Only-3/test/images
+train: ../../License-Plate-Detection-Only-3/train/images
+val: ../../License-Plate-Detection-Only-3/valid/images
